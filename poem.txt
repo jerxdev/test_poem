@@ -1,10 +1,11 @@
-The Rainbow
+The Rainbow and the hello
 
 Purple
 Pink
 Orage
 Blue
 Green
+Hello
 Yellow
 Red
-These are the colors of the rainbow
+These are the colors of the rainbow and the hello
