@@ -6,6 +6,7 @@ Orage
 Blue
 Green
 Indigo
+Earth day is a day
 Hello
 Yellow
 Red
