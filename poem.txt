@@ -5,6 +5,7 @@ Pink
 Orage
 Blue
 Green
+Indigo
 Hello
 Yellow
 Red
